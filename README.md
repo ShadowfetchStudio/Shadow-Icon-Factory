@@ -58,6 +58,8 @@ A `.deb` is produced with `./scripts/build-deb.sh` (see [BUILDING.md](BUILDING.m
 - `favicon.ico` includes 16/32/48 when the master is large enough
 - SVG rasterizes at 1024 via `rsvg-convert`
 
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
