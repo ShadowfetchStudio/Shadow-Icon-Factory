@@ -28,7 +28,7 @@ Architecture: ${ARCH}
 Maintainer: Shadow Icon Factory contributors <209457103+Shadowfetchapps@users.noreply.github.com>
 Depends: libgtk-4-1, libadwaita-1-0
 Installed-Size: ${SIZE}
-Homepage: https://github.com/Shadowfetchapps/Shadow-Icon-Factory
+Homepage: https://github.com/ShadowfetchStudio/Shadow-Icon-Factory
 Description: Generate desktop and mobile icon sets
  Build Linux, iOS, macOS, Web, and Android icons from a master image.
 EOF
